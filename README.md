@@ -29,8 +29,4 @@ Skills: C/C++/Java/Python/REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SivaPullaiah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sivapullaihmangali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sivapullaiahmangali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SivaPullaiah_M)  
 
-
-
-
-
-
+![Bottom_Banner](https://user-images.githubusercontent.com/93705673/212979833-e4bfab12-896a-40a7-b694-cbc2cf0d50f1.png)
