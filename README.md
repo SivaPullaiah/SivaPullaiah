@@ -1,6 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/93705673/212975712-e645c5df-9f58-4c51-a7ed-bbcc78e11c49.gif)
-
-
+![Banner](https://user-images.githubusercontent.com/93705673/213033634-e4d4eec2-7623-478e-a550-52998e9f2ab4.gif)
 
 ### Hi there 👋, SivaPullaiah
 #### Design and Development
@@ -21,6 +19,7 @@ I'm SivaPullaiah from India, and I do content on Design and Development. I reall
 </picture>
 
 Skills: C/C++/Java/Python/REACT / JS / HTML / CSS
+
 
 - 🔭 I’m currently working on how to contribute to Google Summer of Code (GSoC) 
 - 🌱 I’m currently learning Open Source Projects 
