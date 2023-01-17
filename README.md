@@ -12,4 +12,4 @@ I'm SivaPullaiah from India, and I do content on Design and Development. I reall
 />
 <img src="https://github-readme-stats.vercel.app/api?username=SivaPullaiah&show_icons=true" />
 </picture> -->
-[![SivaPullaiah's github stats].(https://github-readme-stats.vercel.app/api?username=SivaPullaiah).].(https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaPullaiah)](https://github.com/anuraghazra/github-readme-stats)
