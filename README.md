@@ -4,8 +4,10 @@
 #### Design and Development
 
 
+<h1 style="color:blue;">About me</h1>
+<p>
 I'm SivaPullaiah from India, and I do content on Design and Development. I really enjoy learning programming languages and frameworks also. I have a open mind to so that, I learn things are very faster and really happy to say this, curently waiting for Google Summer of Code (GSoC) contribution of any organization.
-
+</p>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=SivaPullaiah&show_icons=true&theme=dark"
