@@ -4,7 +4,7 @@
 
 ### Hi there 👋, SivaPullaiah
 #### Design and Development
-![Design and Development]
+
 
 I'm SivaPullaiah from India, and I do content on Design and Development. I really enjoy learning programming languages and frameworks also. I have a open mind to so that, I learn things are very faster and really happy to say this, curently waiting for Google Summer of Code (GSoC) contribution of any organization.
 
@@ -22,7 +22,7 @@ I'm SivaPullaiah from India, and I do content on Design and Development. I reall
 
 Skills: C/C++/Java/Python/REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Google Summer of Code (GSoC) 
+- 🔭 I’m currently working on how to contribute to Google Summer of Code (GSoC) 
 - 🌱 I’m currently learning Open Source Projects 
 - 📫 How to reach me: mangalisivapullaiah@gmail.com 
 
