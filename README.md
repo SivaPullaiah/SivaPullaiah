@@ -1,4 +1,4 @@
-![github_banner](https://user-images.githubusercontent.com/93705673/212968058-787715de-c695-4002-afd0-ae6da6c9d2f3.jpg)
+![Colorful Shapes Header Banner](https://user-images.githubusercontent.com/93705673/212970608-b014d589-71e0-453f-bac6-007b876a6251.jpg)
 
 ### Hi there 👋, SivaPullaiah
 #### Design and Development
@@ -26,4 +26,9 @@ Skills: C/C++/Java/Python/REACT / JS / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SivaPullaiah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sivapullaihmangali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sivapullaiahmangali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SivaPullaiah_M)  
+
+
+
+
+
 
