@@ -1,4 +1,6 @@
-![Colorful Shapes Header Banner](https://user-images.githubusercontent.com/93705673/212970608-b014d589-71e0-453f-bac6-007b876a6251.jpg)
+![Banner](https://user-images.githubusercontent.com/93705673/212975712-e645c5df-9f58-4c51-a7ed-bbcc78e11c49.gif)
+
+
 
 ### Hi there 👋, SivaPullaiah
 #### Design and Development
