@@ -1,4 +1,4 @@
-### Banner
+![github_banner](https://user-images.githubusercontent.com/93705673/212968058-787715de-c695-4002-afd0-ae6da6c9d2f3.jpg)
 
 ### Hi there 👋, SivaPullaiah
 #### Design and Development
