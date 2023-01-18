@@ -1,14 +1,21 @@
-![Banner](https://user-images.githubusercontent.com/93705673/213033634-e4d4eec2-7623-478e-a550-52998e9f2ab4.gif)
-
-### Hi there 👋, SivaPullaiah
-#### Design and Development
-
-
-<h1 style="color:blue;">About me</h1>
-<p>
-I'm SivaPullaiah from India, and I do content on Design and Development. I really enjoy learning programming languages and frameworks also. I have a open mind to so that, I learn things are very faster and really happy to say this, curently waiting for Google Summer of Code (GSoC) contribution of any organization.
+<p align="center">
+  <a href="https://github.com/SivaPullaiah" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/93705673/213033634-e4d4eec2-7623-478e-a550-52998e9f2ab4.gif" alt="my banner"></a>
 </p>
-<picture>
+
+<h3 align="center">
+Hi there, I'm <a href="https://github.com/SivaPullaiah" target="_blank" rel="noreferrer">Siva</a> 👋
+</h3>
+
+<h2 align="center">
+I do Design and Developement 💻!
+</h2> 
+<h1 style="color:blue;">About <a href="https://github.com/SivaPullaiah" target="_blank" rel="noreferrer">me</a></h1>
+
+<p>
+I'm from India, and I do content on Design and Development. I really enjoy learning programming languages and frameworks also. I have a open mind to so that, I learn things are very faster and really happy to say this, curently waiting for Google Summer of Code (GSoC) contribution of any organization.
+</p>
+
+  <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=SivaPullaiah&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
