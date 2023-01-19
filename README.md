@@ -33,6 +33,10 @@ I'm from India, and I do content on Design and Development. I really enjoy learn
 
 Skills: C/C++/Java/Python/REACT / JS / HTML / CSS
 
+<p align="left" style='margin: 8px 4px;'>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivapullaiah&theme=gruvbox" alt="sivapullaiah" />
+</p>
+
 
 - 🔭 I’m currently working on how to contribute to Google Summer of Code (GSoC) 
 - 🌱 I’m currently learning Open Source Projects 
@@ -42,3 +46,4 @@ Skills: C/C++/Java/Python/REACT / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SivaPullaiah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sivapullaiahmangali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sivapullaiahmangali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SivaPullaiah_M)  
 
 ![Bottom_Banner](https://user-images.githubusercontent.com/93705673/212979833-e4bfab12-896a-40a7-b694-cbc2cf0d50f1.png)
+
