@@ -9,7 +9,11 @@ Hi there, I'm <a href="https://github.com/SivaPullaiah" target="_blank" rel="nor
 <h2 align="center">
 I do Design and Developement 💻!
 </h2> 
-<h1 style="color:blue;">About <a href="https://github.com/SivaPullaiah" target="_blank" rel="noreferrer">me</a></h1>
+<h3>About <a href="https://github.com/SivaPullaiah" target="_blank" rel="noreferrer">me</a></h3>
+
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from India." />
+</p>
 
 <p>
 I'm from India, and I do content on Design and Development. I really enjoy learning programming languages and frameworks also. I have a open mind to so that, I learn things are very faster and really happy to say this, curently waiting for Google Summer of Code (GSoC) contribution of any organization.
