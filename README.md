@@ -11,6 +11,29 @@ I do Design and Developement 💻!
 </h2> 
 <h3>About <a href="https://github.com/SivaPullaiah" target="_blank" rel="noreferrer">me</a></h3>
 
+
+
+    
+      
+    
+
+
+    
+      My GATE Exam is Tomorrow
+      
+        
+          SivaPullaiah Mangali on LinkedIn
+        
+
+
+        
+          Publish date February 3, 2023
+        
+        
+          February 3, 2023         
+      
+    
+
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from India." />
 </p>
