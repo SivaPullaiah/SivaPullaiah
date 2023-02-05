@@ -10,39 +10,17 @@ Hi there, I'm <a href="https://github.com/SivaPullaiah" target="_blank" rel="nor
 I do Design and Developement 💻!
 </h2> 
 <h3>About <a href="https://github.com/SivaPullaiah" target="_blank" rel="noreferrer">me</a></h3>
-
-![m4o_HkHQ](https://user-images.githubusercontent.com/93705673/216613312-ae32ff08-28c9-4201-a2ad-fde0a923ba98.jpg)
-
-
-
-    
-      
-    
-
-
-    
-      My GATE Exam is Tomorrow
-      
-        
-          SivaPullaiah Mangali on LinkedIn
-        
-        
-          Publish date February 3, 2023
-        
-        
-          February 3, 2023         
-
-
-    
-
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from India." />
 </p>
 
-<p>
-I'm from India, and I do content on Design and Development. I really enjoy learning programming languages and frameworks also. I have a open mind to so that, I learn things are very faster and really happy to say this, curently waiting for Google Summer of Code (GSoC) contribution of any organization.
-</p>
 
+      I'm from India, and I do content on Design and Development.
+      I really enjoy learning programming languages and frameworks also.
+      I have a open mind to so that, I learn things are very faster and really happy to say this,
+      curently waiting for Google Summer of Code (GSoC) contribution of any organization.
+      
+ 
   <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=SivaPullaiah&show_icons=true&theme=dark"
